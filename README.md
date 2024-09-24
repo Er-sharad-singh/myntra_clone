@@ -1,6 +1,6 @@
 Myntra Clone - Responsive Webpage
 
-This project is a responsive clone of the Myntra website built using HTML5 and CSS3. The goal of this project is to replicate the front-end design of Myntra, focusing on layout, responsiveness, and basic styling elements.You can view project by visiting on https://er-sharad-singh.github.io/myntra_clone/
+This project is a responsive clone of the Myntra website built using HTML5 and CSS3. The goal of this project is to replicate the front-end design of Myntra, focusing on layout, responsiveness, and basic styling elements.You can view page by visiting on https://er-sharad-singh.github.io/myntra_clone/
 
 Overview:-
 
